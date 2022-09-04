@@ -1,5 +1,6 @@
 Introducción
 
-Colaboradores
+Colaboradores:
+Oscar Acevedo
 
 Resumen
